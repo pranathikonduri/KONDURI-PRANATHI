@@ -1,21 +1,20 @@
-# Hi there! 👋 I'm a Software Developer
+ Hi there! 👋
 
-🚀 Aspiring Software Developer passionate about building innovative projects and solving real-world problems.
+Aspiring Software Developer passionate about building innovative projects, solving real-world problems, and exploring emerging technologies.
 
-### 💻 About Me
-- 🌱 Currently learning React and web development.
-- 💡 Interested in building responsive and user-friendly applications.
-- 🎯 Working on improving my programming and problem-solving skills.
-- 🤝 Open to learning, collaboration, and opportunities.
+💻 About
+- 🌱 Learning React and modern web development.
+- 💡 Interested in responsive and user-friendly applications.
+- 🎯 Focused on programming and problem-solving skills.
+- 🤝 Open to collaboration and opportunities.
 
-### 🛠️ Technologies & Tools
+🛠️ Technologies & Tools
 - HTML
 - CSS
 - JavaScript
 - React
 - Git & GitHub
 
-### 🔗 Connect With Me
-- LinkedIn: [Add your LinkedIn URL]
+🔗 Connect
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/konduri-pranathi/)
 - Portfolio: Coming soon!
-
